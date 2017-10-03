@@ -1,0 +1,145 @@
+.image {
+			background-image: url("images/bg.jpeg");
+			background-repeat: no-repeat; 
+			background-size: cover;
+			height:400px;
+		}
+		.logo {
+			float:left;
+		}
+
+		.logo img {
+			width:156px;
+			height:30px;
+			padding-left: 150px;
+			padding-top: 15px;
+		}
+
+		.image li {
+			position: relative;
+			float:right;
+			list-style-type: none;
+			padding-right: 35px;
+			color:white;
+			top:15px;
+			font-size: 15px;
+		}
+		.image li a {
+			text-decoration-line: none;
+			color:#908989;
+			
+			}
+
+		.parrafo {
+			color:white;
+			font-size: 30px;
+			padding: 50px 450px 50px 400px;
+			text-align: center;
+			clear:both;
+		}
+		.info {
+			margin-right: 550px;
+			;
+		}
+		.info li a{
+			color:white;
+			border-radius:10%;
+			padding:12px;
+		}
+		.mas-info {
+			background-color: green;
+			font-weight: bold;
+		}
+		.comienza-aca {
+			background-color:blue;
+			font-weight:bold;
+		}
+		.parrafo2 {
+			color:white;
+			clear:both;
+			text-align: center;
+			width:580px;
+			margin-left:350px;
+			font-size: 15px;
+		}
+		h1 {
+			text-align: center;
+			margin-top:45px;
+			font-size:21px;
+		}
+		.parrafo3 {
+			text-align: center;
+			padding:0 100px 0 100px;
+		}
+		img {
+			width:40%;
+			height:30%;
+			margin-bottom:0;
+		}
+		.img2 {
+			text-align: center;
+			position: relative;
+			bottom:0;
+		}
+		.inscribete {
+			height:250px;
+			margin-top:0;
+			text-align: center;
+			border-bottom:solid;
+			border-top: solid;
+			border-width: 1px;
+			border-color:grey;
+			background-color: #F2F2F2;
+		}
+
+		.inscribete2 {
+			margin-top: 15px;
+			background-color:blue;
+			border-radius: 10%;
+			padding:10px;
+			color:white;
+			text-decoration: none;
+			font-weight:  bold;
+		}
+		.direccion {
+			float:left;
+			position: relative;
+			left:200px;
+			clear: both;
+			clear: top;
+
+		}
+		.direccion li {
+			list-style-type: none;
+
+		}
+		.contacto {
+			font-size: 27px;
+			margin-bottom: 10px;
+		}
+		.enviar-info {
+			float:right;
+			list-style-type: none;
+			position: relative;
+			float:right;
+			right:220px;
+		}
+		.enviar-info2 {
+			font-size: 27px;
+
+		}
+	
+	footer {
+		clear:both;
+		background-color:black;
+		height:50px;
+		margin-top: 215px;
+	}
+	footer p {
+		color:white;
+		font-size:22px;
+		padding-left: 60px;
+		padding-top:10px;
+	}
+
+
